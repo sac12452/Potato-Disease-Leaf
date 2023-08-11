@@ -52,6 +52,17 @@
 
 <br>
 
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Sample Data
+
+
+
+
+![leaf1](https://github.com/sac12452/Potato-Disease-Leaf/assets/125953080/ffe0890c-04a6-4c19-98b3-2335be8809fc)
+
+
+<br>
+
+
 # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
    
    1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
