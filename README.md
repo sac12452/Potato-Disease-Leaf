@@ -1,13 +1,7 @@
 # 
 # <h>  **A Deep Learning Approach to Potato Leaf Disease Detection and Classification.**
 
-**This is an innovative project that harnesses deep learning to transform potato agriculture. By utilizing a vast dataset of annotated potato leaf images, the project develops a powerful deep neural network to swiftly and accurately detect a range of leaf diseases. This technology offers a faster, more precise alternative to traditional diagnosis methods, aiding farmers in promptly managing and safeguarding their crops. The anticipated outcome is improved crop health, yield, and sustainability through the early identification of disease issues.
-
-
-
-
-
-.**
+**Potato Leaf Disease Classifier: Leveraged deep learning to create an image classifier for potato leaf diseases. Dataset sourced from Kaggle. Built a robust Convolutional Neural Network (CNN) model to identify disease types from leaf images. Employed data preprocessing, augmentation, and layered architecture for accurate classification. Visualized training progress and model performance. Contributing to sustainable agriculture practices with AI-powered disease detection.**
 
 
 
@@ -34,23 +28,25 @@
 
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-    1. Started with scrapping of the data from InstaHyre's website with Python and saving it into CSV files, imported the CSV files into an Excel file.
+    1. Dataset Handling
     
-    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into MySQL for further analysis. 
+    2. Visual Exploration
  
-    3. Imported CSVs in MySQL, created tables using Group By, Join, Trim, Constraints etc.
+    3. Data Preprocessing
     
-    4. Exported all the tables from MySQL to MS Excel and created required tables to gain some insights.
+    4. Model Architecture
     
-    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
+    5. Flattening and Fully Connected Layers
     
-    6. Created different charts from the table for better understanding of the data.
+    6. Model Compilation
     
-    7. Also Designed a Interactive Dashboard from the charts for better visualisation.
+    7. Model Training
     
-    8. Created some useful drop-downs for fetching the required Data like Standard Experience, Standard Role (Profiles) and Location.
+    8. Training History Visualization
     
-    9. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
+    9. Key Metrics Analysis
+
+    10. Interactive Insights
     
 
 
