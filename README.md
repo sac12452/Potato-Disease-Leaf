@@ -84,6 +84,20 @@
 
 ![model loss](https://github.com/sac12452/Potato-Disease-Leaf/assets/125953080/ca52fa42-e4ce-4be5-9e49-962da8013480)
 
+<br>
+
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Challenges
+
+1 - Acquiring a diverse and comprehensive dataset that covers various disease types, severity levels, lighting conditions, and stages of disease progression can be challenging
+
+2 - Preprocessing agricultural images can be complex due to variations in background, lighting, and image quality.
+
+3 - Deep learning models can be highly complex, making it challenging to interpret how they arrive at their predictions.
+
+4 - Validating the model's accuracy and performance in real agricultural fields can be challenging due to variations in environmental conditions.
+
+5 - Implementing the model in a real-world scenario, such as a mobile application used by farmers, requires optimization for real-time performance and minimal computational resources.
+
       
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
    
